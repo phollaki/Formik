@@ -35,4 +35,4 @@ RHF - 13.1 kB (gzip) - https://deno.bundlejs.com/badge?q=react-hook-form@7.46.1
 
 ## Mobile support
 
-Both supports RN.# Formik
+Both supports RN.
